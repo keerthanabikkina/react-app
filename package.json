@@ -3,9 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
-"homepage" : "https://keerthanabikkina.github.io/react/",
-   "scripts": {
+  "homepage": "https://keerthanabikkina.github.io/react/",
+  "scripts": {
     "lint": "eslint .",
     "dev": "vite",
     "build": "vite build",
